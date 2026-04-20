@@ -20,6 +20,26 @@
 
 - 📫 How to reach me **lavanya.ml372116@gmail.com**
 
+   ## 🚀 Featured Projects
+
+🔹 E-commerce Sales Dashboard (Power BI)  
+- Created interactive dashboard to analyze sales, profit, and customer trends  
+- Used DAX, data cleaning, and visualization techniques  
+
+🔹 SQL Data Analysis Project  
+- Wrote complex queries (joins, subqueries, aggregations)  
+- Extracted business insights from raw datasets  
+
+🔹 Python Data Analysis  
+- Used Pandas & Matplotlib for data cleaning and visualization
+
+- ## 🛠️ Skills
+
+- Power BI (Dashboard, DAX, Data Modeling)
+- SQL (Joins, Window Functions, Aggregations)
+- Python (Pandas, NumPy, Matplotlib)
+- Excel (Pivot Tables, Charts)
+
 - 📄 Know about my experiences [https://media.licdn.com/dms/image/v2/D562DAQGMLhQ6c98QBw/profile-treasury-document-cover-images_800/B56Z2kJjkFK8A8-/0/1776575465135?e=1777284000&v=beta&t=3rToWjUOf653iVhEoe5hZhRGo8G_ES_hJ8qzj25EQTU](https://media.licdn.com/dms/image/v2/D562DAQGMLhQ6c98QBw/profile-treasury-document-cover-images_800/B56Z2kJjkFK8A8-/0/1776575465135?e=1777284000&v=beta&t=3rToWjUOf653iVhEoe5hZhRGo8G_ES_hJ8qzj25EQTU)
 
 <h3 align="left">Connect with me:</h3>
