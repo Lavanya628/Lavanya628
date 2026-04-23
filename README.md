@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lavanya M</h1>
-<h3 align="center">A passionate Data Analyst from India</br></br>
-💡 I love transforming raw data into meaningful insights and interactive dashboards.</br></br>
+<h3 align="center">A passionate Data Analyst from India</br></br></h3>
+💡 <h5>I love transforming raw data into meaningful insights and interactive dashboards.</br></br>
 
 📊 Skilled in Power BI, SQL, Python (Pandas, NumPy), and Excel</br></br>  
 📈 Currently working on E-commerce Sales Analysis Dashboard</br></br>  
-🚀 Actively looking for Data Analyst opportunities</h3>
+🚀 Actively looking for Data Analyst opportunities</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanya628&label=Profile%20views&color=0e75b6&style=flat" alt="lavanya628" /> </p>
 
