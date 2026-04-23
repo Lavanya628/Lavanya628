@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavanya M</h1>
-<h3 align="center">A passionate Data Analyst from India</br></h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 💡 <h5 align="center">I love transforming raw data into meaningful insights and interactive dashboards.</br></br>
 
 📊 Skilled in Power BI, SQL, Python (Pandas, NumPy), and Excel</br></br>  
