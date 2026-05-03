@@ -30,7 +30,7 @@
 
 <p align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi,tableau,github" />
 </p>
 </p>
 
