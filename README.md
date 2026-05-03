@@ -13,15 +13,15 @@
 - 📊 Aspiring Data Analyst  
 - 💼 Currently working on **E-commerce Sales Dashboard (Power BI)**  
 - 🌱 Learning **Advanced SQL, Python, Data Visualization**  
-- 📫 Email: lavanya.ml372116@gmail.com  
+- 📫 Email: lavanya.ml3721116@gmail.com  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:lavanya.ml372116@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/lavanya-m-06b164258/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:lavanya.ml3721116@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
