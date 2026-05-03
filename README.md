@@ -29,11 +29,9 @@
 ## 🛠️ Most Used Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=sql"/>
-  <img src="https://skillicons.dev/icons?i=excel"/>
-  <img src="https://skillicons.dev/icons?i=PowerBI"/>
-   <img src="https://skillicons.dev/icons?i=Tableau"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,git,github" />
+</p>
 </p>
 
 ---
