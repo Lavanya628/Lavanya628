@@ -12,7 +12,7 @@
 - 🎓 MCA Student  
 - 📊 Aspiring Data Analyst  
 - 💼 Currently working on **E-commerce Sales Dashboard (Power BI)**  
-- 🌱 Learning **Advanced SQL, Python, Data Visualization**  
+- 🌱 Skills **Advanced SQL, Python, Data Visualization**  
 - 📫 Email: lavanya.ml3721116@gmail.com  
 
 ---
