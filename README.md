@@ -67,7 +67,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanya628&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Lavanya628&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya628&layout=compact&theme=tokyonight" />
 </p>
 ---
 
