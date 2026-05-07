@@ -62,8 +62,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lavanya628&show_icons=true&theme=tokyonight&cache_seconds=1"/>
 
